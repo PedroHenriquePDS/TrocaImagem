@@ -22,3 +22,8 @@
     body{
         background-color: rgb(121, 121, 121);
     }
+    footer{
+        color: white;
+        text-align: center;
+        font-style: italic;
+    }
